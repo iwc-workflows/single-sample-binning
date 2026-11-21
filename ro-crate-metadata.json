@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-11-03T13:40:51.970592",
+            "datePublished": "2026-11-21T10:11:18.456478",
             "hasPart": [
                 {
                     "@id": "single-sample-binning.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/single-sample-binning",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.47"
+            "engineVersion": ">=0.75.48"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
